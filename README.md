@@ -20,3 +20,9 @@
 2. 공용 templates 공간 등록 (`DIRS`)
 3. TIME_ZONE 
 
+
+## 3. Model
+
+1. 모델링 (models.py 작성)
+2. makemigrations
+3. migrate
